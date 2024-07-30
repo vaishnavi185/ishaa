@@ -1,0 +1,48 @@
+.im1{
+    margin-left: 50%;
+    margin-top: 26%;
+    size: 100px;
+}
+.h{
+    margin-left: 44%;
+    margin-top: 1%;
+  
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-size: larger;
+        font-style: normal;
+      
+
+}
+
+.p{
+    margin-left: 20%;
+ 
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    
+}
+.nav-links{
+    margin-left: 7%;
+        
+}
+.navv{
+    list-style: none;
+    text-decoration: none;
+}
+.Link{
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #1E1E1E;
+    text-decoration: none;
+    list-style: none;
+ 
+}
+.logout{
+    text-decoration: none;
+    list-style: none;
+    margin-left: 12%;
+     color: #C0B8B8;
+}

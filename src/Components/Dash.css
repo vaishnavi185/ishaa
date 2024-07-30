@@ -1,0 +1,70 @@
+.dash {
+  
+    border-left: 1px solid black;
+  }
+  
+  .col {
+    text-align: center;
+  }
+  
+  .h3 {
+    margin-bottom: 10px;
+  }
+  
+  .h1 {
+    margin-bottom: 20px;
+  }
+  
+  .container2 {
+    margin-top: 30px;
+    background-color:#F5F5F7;
+    background: cover;
+  }
+ .contaner con{
+    border-left: 1px solid black;
+    
+ }
+ .rowk {
+    display: flex;
+    align-items: center; /* Align items vertically centered */
+}
+
+.rowk h4 {
+    margin-right: 10px; /* Optional: space between text and button */
+}
+
+.btn {
+    /* You can add your button styles here */
+   margin-left: 300px;
+    
+    color: rgb(68, 25, 139);
+    border: none;
+    
+    cursor: pointer;
+}
+
+
+.quizzee{
+  height: 270px;
+  width: 390px;
+  background-color: #C5E0EE;
+  margin-top: 80px;
+  margin-left: 150px;
+  border-radius: 30px;
+}
+/* .quizzee .row {
+  display: flex;
+ 
+}
+
+.quizzee .col {
+  flex: 1;
+}
+
+.quizzee .col img {
+  max-width: 100%;
+  height: auto;
+}
+
+.quizzee .col button {
+  margin-top: 10px; /* Adjust as needed */

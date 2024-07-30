@@ -1,0 +1,52 @@
+.form-control{
+    border-radius: 100px;
+    width: 500px;
+}
+.nav {
+  
+    margin-left: 730px;
+    
+}
+.homes{
+    background-color: #F5F5F7;
+    border-left: 1px solid black;
+}
+.p2{
+    margin-left: 12px;
+    font-size: 40px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+
+}
+.bb1{
+    width: 700px;
+    height: 140px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    box-shadow: #4b4b4d;
+    display: flexbox;
+}
+.imo{
+    margin-top: 20px;
+    height: 100px;
+    margin-left: 15px;
+}
+.pop{
+    display: flexbox;
+}
+/* .acc{
+    margin-left: 790px; */
+
+
+.box{
+    height: 500px;
+    width: 600px;
+    background: #FFFFFF;
+}
+.jj{
+    text-align: center;
+}
+.col{
+    margin-left: 10px;
+}
