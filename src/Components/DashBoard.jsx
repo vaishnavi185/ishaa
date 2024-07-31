@@ -1,5 +1,6 @@
 import React from 'react';
 import './Dash.css';
+import { Link, useNavigate } from 'react-router-dom';
 
 export default function DashBoard() {
   return (
@@ -88,7 +89,8 @@ export default function DashBoard() {
             <br></br><br></br>
             <div class='rowk'>
     <h4>course in progress</h4>
-    <button class='btn info'>Time spent</button>
+    {/* <button class='btn info'>Time spent</button> */}
+    <Link className='butn info' to="/timespent"> Time spent</Link>
 </div>
 
             

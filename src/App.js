@@ -9,6 +9,8 @@ import History from './Components/History';
 import Save from './Components/Save';
 import './App.css'
 
+import Content from './Components/Content';
+
 function App() {
   return (
     <Router>
@@ -20,6 +22,10 @@ function App() {
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/history" element={<History />} />
             <Route path="/saves" element={<Save/>} />
+            {/* <Route path="/userprofile" element={Content} /> */}
+            {/* <Route path="/userprofile" element={UserProfile} /> */}
+            <Route path="/timespent" element={<Content></Content>} />
+
           </Routes>
         </div>
       </div>
